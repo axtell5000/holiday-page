@@ -47,6 +47,11 @@
   background-color: rgb(255, 238, 0);
 }
 
+#highlights {
+  background: linear-gradient(0deg, rgb(227, 255, 253), rgb(233, 243, 202));
+  padding: 24px;
+}
+
 #highlights h2 {
   color: rgb(59, 65, 64);
   font-size: 40px;
